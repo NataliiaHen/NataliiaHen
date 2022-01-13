@@ -7,7 +7,7 @@
 - 😄 Pronouns: Ukraine, Kyiv
 - ⚡ Fun fact: ...
 
-![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=HTML)
+<!-- ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=HTML)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
@@ -16,36 +16,17 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JavaScript"/>
 
 
-My stack and tools
-JavaScript
+My stack and tools -->
+### My stack and tools
+<!-- 
+<div class="conrainer" style="display: flex" > -->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="Css"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" alt="SASS"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="30" alt="Github"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" alt="visual-studio-code"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" alt="git"/>
 
-JavaScript
-
-React
-
-Node.js
-
-PostgreSQL
-
-MongoDB
-
-HTML5
-
-CSS3
-
-Sass
-
-MySQL
-
-MySQL
-
-MySQL
-
-Git
-
-GitHub
-
-Terminal
-
-Visual Studio Code
+<!-- </div> -->
 

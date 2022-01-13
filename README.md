@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**NataliiaHen/NataliiaHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- I’m a begginer Web-developer
+- 🌱 I’m currently learning React.js
+- 🤔 I’m looking for help with finding more time in a single day
+- 📫 How to reach me: nataliehenda1296@gmail.com
+- 😄 Pronouns: Ukraine, Kyiv
 - ⚡ Fun fact: ...
--->
+
+My stack and tools
+JavaScript
+
+JavaScript
+
+React
+
+Node.js
+
+PostgreSQL
+
+MongoDB
+
+HTML5
+
+CSS3
+
+Sass
+
+MySQL
+
+MySQL
+
+MySQL
+
+Git
+
+GitHub
+
+Terminal
+
+Visual Studio Code
+

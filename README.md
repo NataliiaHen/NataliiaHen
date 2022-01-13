@@ -7,9 +7,9 @@
 - 😄 Pronouns: Ukraine, Kyiv
 - ⚡ Fun fact: ...
 
-![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=HTML)
+![HTML](https://raw.githubusercontent.com/NataliiaHen/NataliiaHen/main/images/html.png)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![JavaScript](https://raw.githubusercontent.com/NataliiaHen/NataliiaHen/main/images/javascript.png)
 
 ![CSS]()
 

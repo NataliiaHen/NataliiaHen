@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-### I’m a begginer Web-developer
-- 🌱 I’m currently learning React.js
-- 🤔 I’m looking for help with finding more time in a single day
-- 📫 How to reach me: nataliehenda1296@gmail.com
-- 😄 Pronouns: Ukraine, Kyiv
-- ⚡ Fun fact: I love what I do
-
+### I’m a Frontend-developer
 
 ### My stack and tools
 

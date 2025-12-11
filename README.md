@@ -26,7 +26,9 @@ I am an experienced Frontend Developer specializing in building **responsive and
   <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
 </p>
 
-### Skills:
+---
+
+## Skills:
 * **Languages:** JavaScript, TypeScript
 * **Frameworks/Libraries:** React, Next.js, Redux, Redux Toolkit, RTK Query 
 * **Styling/Markup:** HTML5, CSS3, Sass (SCSS), BEM 
@@ -34,7 +36,9 @@ I am an experienced Frontend Developer specializing in building **responsive and
 * **APIs & Communication:** Fetch, REST API, WebSockets
 * **Tools & Practices:** JavaScript Testing, Agile concepts (Scrum, Kanban), Git
   
-<h3>💡 Core Technologies</h3>
+---
+
+## 💡 Core Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
@@ -42,7 +46,10 @@ I am an experienced Frontend Developer specializing in building **responsive and
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white">
 </p>
-<h3>🎨 Styling &amp; Design</h3>
+
+---
+
+## 🎨 Styling &amp; Design
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
@@ -57,7 +64,9 @@ I am an experienced Frontend Developer specializing in building **responsive and
 <li>✈️ <strong><a href="https://github.com/NataliiaHen/air-landing">Air Landing</a></strong> - Modern landing page design</li>
 </ul>
 <hr>
-<h2>🏆 Achievements &amp; Skills</h2>
+---
+
+## 🏆 Achievements &amp; Skills
 <ul>
 <li>🎯 Expertise in <strong>React ecosystem</strong> (Redux, RTK Query, Next.js)</li>
 <li>📱 Building <strong>responsive</strong> and <strong>mobile-first</strong> applications</li>

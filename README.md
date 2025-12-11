@@ -7,15 +7,11 @@
 
 I am an experienced Frontend Developer specializing in building **responsive and dynamic web applications** using **React, Redux, TypeScript, and JavaScript**. I am passionate about creating **intuitive and high-performance user interfaces** that ensure a seamless user experience. With a strong analytical mindset and attention to detail, I am adaptable to diverse projects.
 
----
-
 ## 🌐 Connect with Me
 
 * 📧 **Email:** n.henda.dev@gmail.com
 * 🔗 **LinkedIn:** [Nataliia Henda](https://www.linkedin.com/in/natalia-henda/)
 * 📞 **Phone:** +49 173 5863382 / +38 073 798 4909
-
----
 
 ## 🛠️ My Technical Stack
 
@@ -26,8 +22,6 @@ I am an experienced Frontend Developer specializing in building **responsive and
   <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
 </p>
 
----
-
 ## Skills:
 * **Languages:** JavaScript, TypeScript
 * **Frameworks/Libraries:** React, Next.js, Redux, Redux Toolkit, RTK Query 
@@ -35,8 +29,6 @@ I am an experienced Frontend Developer specializing in building **responsive and
 * **Backend/Databases:** Node.js, Express, SQL, PostgreSQL
 * **APIs & Communication:** Fetch, REST API, WebSockets
 * **Tools & Practices:** JavaScript Testing, Agile concepts (Scrum, Kanban), Git
-  
----
 
 ## 💡 Core Technologies
 <p align="center">
@@ -46,8 +38,6 @@ I am an experienced Frontend Developer specializing in building **responsive and
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white">
 </p>
-
----
 
 ## 🎨 Styling &amp; Design
 <p align="center">
@@ -64,7 +54,6 @@ I am an experienced Frontend Developer specializing in building **responsive and
 <li>✈️ <strong><a href="https://github.com/NataliiaHen/air-landing">Air Landing</a></strong> - Modern landing page design</li>
 </ul>
 <hr>
----
 
 ## 🏆 Achievements &amp; Skills
 <ul>

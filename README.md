@@ -19,14 +19,6 @@ I am an experienced Frontend Developer specializing in building **responsive and
 
 ## 🛠️ My Technical Stack
 
-### Skills:
-* **Languages:** JavaScript, TypeScript
-* **Frameworks/Libraries:** React, Next.js, Redux, Redux Toolkit, RTK Query 
-* **Styling/Markup:** HTML5, CSS3, Sass (SCSS), BEM 
-* **Backend/Databases:** Node.js, Express, SQL, PostgreSQL
-* **APIs & Communication:** Fetch, REST API, WebSockets
-* **Tools & Practices:** JavaScript Testing, Agile concepts (Scrum, Kanban), Git
-
 <p align="center">
   <img alt="Core Skills" src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,nextjs,html,css,sass&amp;perline=8">
 </p>
@@ -34,6 +26,14 @@ I am an experienced Frontend Developer specializing in building **responsive and
   <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
 </p>
 
+### Skills:
+* **Languages:** JavaScript, TypeScript
+* **Frameworks/Libraries:** React, Next.js, Redux, Redux Toolkit, RTK Query 
+* **Styling/Markup:** HTML5, CSS3, Sass (SCSS), BEM 
+* **Backend/Databases:** Node.js, Express, SQL, PostgreSQL
+* **APIs & Communication:** Fetch, REST API, WebSockets
+* **Tools & Practices:** JavaScript Testing, Agile concepts (Scrum, Kanban), Git
+  
 <h3>💡 Core Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">

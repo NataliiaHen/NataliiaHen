@@ -19,15 +19,6 @@ I am an experienced Frontend Developer specializing in building **responsive and
 
 ## 🛠️ My Technical Stack
 
-You can enhance this section by adding visual badges for a quick, impactful view of your skills.
-
-<p align="center">
-  <img alt="Core Skills" src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,nextjs,html,css,sass&amp;perline=8">
-</p>
-<p align="center">
-  <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
-</p>
-
 ### Skills:
 * **Languages:** JavaScript, TypeScript
 * **Frameworks/Libraries:** React, Next.js, Redux, Redux Toolkit, RTK Query 
@@ -35,6 +26,13 @@ You can enhance this section by adding visual badges for a quick, impactful view
 * **Backend/Databases:** Node.js, Express, SQL, PostgreSQL
 * **APIs & Communication:** Fetch, REST API, WebSockets
 * **Tools & Practices:** JavaScript Testing, Agile concepts (Scrum, Kanban), Git
+
+<p align="center">
+  <img alt="Core Skills" src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,nextjs,html,css,sass&amp;perline=8">
+</p>
+<p align="center">
+  <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
+</p>
 
 <h3>💡 Core Technologies</h3>
 <p align="center">

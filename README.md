@@ -1,6 +1,8 @@
 # Hi! I'm Nataliia Henda 👋
 ### 🧑‍💻 Frontend Developer
-
+<p align="center">
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+Dynamic+Web+Apps">
+</p>
 I am an experienced Frontend Developer specializing in building **responsive and dynamic web applications** using **React, Redux, TypeScript, and JavaScript**. I am passionate about creating **intuitive and high-performance user interfaces** that ensure a seamless user experience. With a strong analytical mindset and attention to detail, I am adaptable to diverse projects.
 
 ---
@@ -26,32 +28,6 @@ You can enhance this section by adding visual badges for a quick, impactful view
 * **APIs & Communication:** Fetch, REST API, WebSockets
 * **Tools & Practices:** JavaScript Testing, Agile concepts (Scrum, Kanban), Git
 
-<p align="center">
-  <img alt="Core Skills" src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,nextjs,html,css,sass&amp;perline=8">
-</p>
-<p align="center">
-  <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
-</p>
-
-<div><div class="markdown-content"><h1>👋 Hi, I'm Nataliia Henda!</h1>
-<p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+Dynamic+Web+Apps">
-</p>
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=NataliiaHen&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
-</p>
-<p>💻 <strong>Frontend Developer</strong> specializing in responsive and dynamic web applications<br>
-🌍 Based in <strong>Kyiv, Ukraine</strong><br>
-🚀 Passionate about creating <strong>intuitive and high-performance user interfaces</strong><br>
-🏠 Currently <strong>working from home</strong></p>
-<hr>
-<h2>🛠️ Tech Stack</h2>
-<p align="center">
-  <img alt="Core Skills" src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,nextjs,html,css,sass&amp;perline=8">
-</p>
-<p align="center">
-  <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
-</p>
 <h3>💡 Core Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
@@ -66,23 +42,6 @@ You can enhance this section by adding visual badges for a quick, impactful view
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white">
-</p>
-<h2>🚀 Projects</h2>
-<p align="center">
-  <a href="https://github.com/NataliiaHen/pets-home">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NataliiaHen&amp;repo=pets-home&amp;theme=tokyonight">
-  </a>
-  <a href="https://github.com/NataliiaHen/phone-catalog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NataliiaHen&amp;repo=phone-catalog&amp;theme=tokyonight">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NataliiaHen/2048-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NataliiaHen&amp;repo=2048-game&amp;theme=tokyonight">
-  </a>
-  <a href="https://github.com/NataliiaHen/air-landing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NataliiaHen&amp;repo=air-landing&amp;theme=tokyonight">
-  </a>
 </p>
 <h3>🎯 Recent Projects</h3>
 <ul>

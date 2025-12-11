@@ -29,7 +29,7 @@ You can enhance this section by adding visual badges for a quick, impactful view
   <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
 </p>
 
-### Core Skills:
+### Skills:
 * **Languages:** JavaScript, TypeScript
 * **Frameworks/Libraries:** React, Next.js, Redux, Redux Toolkit, RTK Query 
 * **Styling/Markup:** HTML5, CSS3, Sass (SCSS), BEM 

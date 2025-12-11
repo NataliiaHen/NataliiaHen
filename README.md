@@ -1,8 +1,10 @@
 # Hi! I'm Nataliia Henda 👋
 ### 🧑‍💻 Frontend Developer
+
 <p align="center">
   <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;Building+Dynamic+Web+Apps">
 </p>
+
 I am an experienced Frontend Developer specializing in building **responsive and dynamic web applications** using **React, Redux, TypeScript, and JavaScript**. I am passionate about creating **intuitive and high-performance user interfaces** that ensure a seamless user experience. With a strong analytical mindset and attention to detail, I am adaptable to diverse projects.
 
 ---
@@ -19,6 +21,13 @@ I am an experienced Frontend Developer specializing in building **responsive and
 ## 🛠️ My Technical Stack
 
 You can enhance this section by adding visual badges for a quick, impactful view of your skills.
+
+<p align="center">
+  <img alt="Core Skills" src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,nextjs,html,css,sass&amp;perline=8">
+</p>
+<p align="center">
+  <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
+</p>
 
 ### Core Skills:
 * **Languages:** JavaScript, TypeScript

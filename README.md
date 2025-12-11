@@ -26,5 +26,9 @@ You can enhance this section by adding visual badges for a quick, impactful view
 * **APIs & Communication:** Fetch, REST API, WebSockets
 * **Tools & Practices:** JavaScript Testing, Agile concepts (Scrum, Kanban), Git
 
-### Visual Skills Representation (Example Badges):
-
+<p align="center">
+  <img alt="Core Skills" src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,nextjs,html,css,sass&amp;perline=8">
+</p>
+<p align="center">
+  <img alt="Tools and Backend" src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode&amp;perline=6">
+</p>

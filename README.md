@@ -46,7 +46,8 @@ I am an experienced Frontend Developer specializing in building **responsive and
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white">
 </p>
-<h3>🎯 Recent Projects</h3>
+
+## 🎯 Recent Projects
 <ul>
 <li>🐾 <strong><a href="https://github.com/NataliiaHen/pets-home">Pets Home</a></strong> - A website dedicated to helping you find your perfect furry companion</li>
 <li>📱 <strong><a href="https://github.com/NataliiaHen/phone-catalog">Phone Catalog</a></strong> - Comprehensive gadgets catalog with modern UI</li>

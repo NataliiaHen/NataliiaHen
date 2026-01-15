@@ -12,7 +12,7 @@ I am an experienced Frontend Developer specializing in building **responsive and
 * 📧 **Email:** n.henda.dev@gmail.com
 * 🔗 **LinkedIn:** [Nataliia Henda](https://www.linkedin.com/in/natalia-henda/)
 * 📞 **Phone:** +49 173 5863382 / +38 073 798 4909
-* 🌐 [**Website:**]([https://yourwebsite.com](https://nataliia-henda-cv.lovable.app/))
+* 🌐 **Website:** [Link](https://nataliia-henda-cv.lovable.app/)
 
 ## 🛠️ My Technical Stack
 
